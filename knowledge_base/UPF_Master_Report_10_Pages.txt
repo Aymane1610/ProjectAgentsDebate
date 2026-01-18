@@ -1,0 +1,30 @@
+5. processus d'admission et sélection
+l'admission se fait en trois étapes :
+1. étude de dossier : moyenne pondérée du bac (maths/physique).
+2. test technique : épreuve de logique et de culture générale scientifique.
+3. entretien : évaluation de la motivation et du niveau de langue.
+point de friction : une mention 'très bien' dispense du test technique, mais pas de l'entretien de
+motivation. les bourses de mérite (jusqu'à 50%) sont réévaluées chaque année selon les résultats
+académiques. si la moyenne descend sous 12/20, la bourse est annulée.
+
+6. tarification et frais annexes
+programme
+frais annuels
+frais d'inscription
+génie informatique
+55,000 mad
+5,000 mad
+génie civil
+52,000 mad
+5,000 mad
+architecture
+75,000 mad
+6,000 mad
+business school
+48,000 mad
+4,000 mad
+médecine dentaire
+110,000 mad
+10,000 mad
+attention : ces tarifs n'incluent pas l'assurance obligatoire (800 mad) et les frais de bibliothèque
+(500 mad).

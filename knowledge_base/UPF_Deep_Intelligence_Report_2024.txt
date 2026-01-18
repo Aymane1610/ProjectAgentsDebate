@@ -1,0 +1,15 @@
+upf deep intelligence report 2024
+confidential document - internal use only
+1. strategic vision & hybrid learning
+the university (upf) is moving towards a 60/40 hybrid model. 60% of courses in computer science
+are now digital. however, architecture and civil engineering require 100% physical presence.
+contradiction notice: while the website claims 'flexibility', the internal rule 402 states that
+missing 2 physical labs leads to immediate failure.
+2. engineering programs & hidden costs
+- computer engineering: yearly tuition is 55,000 mad. 
+  *hidden cost a: laboratory access fee of 5,000 mad for ai research.
+  *hidden cost b: cloud computing subscription (aws/azure) is not included (approx. 2,000 mad/year).
+- civil engineering: yearly tuition is 52,000 mad.
+  *constraint: mandatory 3rd-year internship is strictly non-paid. students must cover travel costs.
+  *benefit: 100% job placement in fes region, but only 40% in casablanca.
+3. admission - the gatekeeper system
