@@ -119,6 +119,6 @@ npm run dev
     <i>Project Agents Debate — Developed by <b>Safae Elaji</b> & <b>Aymane Assou</b>.</i>
   </p>
   <p>
-    Research & Development • Universitat Pompeu Fabra
+    Research & Development • Private University of Fes
   </p>
 </div>
